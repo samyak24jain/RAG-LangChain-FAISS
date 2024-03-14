@@ -1,6 +1,6 @@
-# Retrieval Augmented Generation using LangChain and FAISS
+# Question Answering using Retrieval Augmented Generation
 
-This repository contains the code for Retrieval Augmented Generation using LangChain.
+This repository contains the code for Retrieval Augmented Generation using LangChain and FAISS.
 
 How to run the code:
 ```
